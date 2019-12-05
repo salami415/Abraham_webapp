@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
 }
-.container {
+#main {
   background-image: url("images/bg.jpg");
 }

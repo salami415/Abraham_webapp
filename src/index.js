@@ -1,4 +1,4 @@
-import "./styles.css";
+import "/src/styles.css";
 import $ from "jquery";
 $(document).ready(function() {
   var listViewWrapper = function() {
